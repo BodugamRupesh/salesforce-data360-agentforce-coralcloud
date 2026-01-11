@@ -52,5 +52,5 @@ See `/images` folder for implementation proof.
 
 ## 👤 Author
 **Rupesh Reddy**  
-GitHub: (your github profile link)  
-LinkedIn: (your linkedin profile link)
+GitHub: https://github.com/BodugamRupesh 
+LinkedIn:https://www.linkedin.com/in/rupesh-reddy-bodugam-053390315/
